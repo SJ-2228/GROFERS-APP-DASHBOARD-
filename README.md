@@ -44,3 +44,6 @@ BUSINESS REQUIREMENT: CHART'S REQUIREMENT:
 4. Total sales by Outlet Establishment:
                         Objective: Evaluate how the age or type of outlet establishment influences total sales.
                         Chart Type: Line Chart.
+   DASHBOARD SCREENSHOT------
+   ![GROFER APP](https://github.com/user-attachments/assets/d3cbb4b6-b60c-40d8-86fd-6d106a17df61)
+
